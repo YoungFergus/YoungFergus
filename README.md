@@ -1,6 +1,6 @@
 ### Erik Ferguson 👋
 
-
+![Banner](https://raw.githubusercontent.com/YoungFergus/YoungFergus/main/EF_Banner.png)
 
 
 <!--
