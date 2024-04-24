@@ -4,13 +4,13 @@
 ![Banner](https://raw.githubusercontent.com/YoungFergus/YoungFergus/main/EF_Banner.png)
 
 ## What I Do
-I'm a: 
- - 🧮 Data Engineer (5+ years of experience)
+ - 🧮 Data Engineer (5+ years of data experience)
  - 🧘 Meditator (Three 10-day silent retreats)
  - 🎹 Classical Musician (Composition Award, 4 professional instruments)
  - 🀄️ Language Learner (Spanish, Mandarin)
 
-
+---
+## My Technologies
 <!--
 **YoungFergus/YoungFergus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
