@@ -1,4 +1,4 @@
-<center># Erik Ferguson aka YoungFergus # </center>
+<h1 align="center"># Erik Ferguson aka YoungFergus # </h1>
 
 ![Banner](https://raw.githubusercontent.com/YoungFergus/YoungFergus/main/EF_Banner.png)
 
