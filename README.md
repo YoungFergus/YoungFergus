@@ -2,21 +2,21 @@
 <span style="color:blue;"><h3 align="center"> aka YoungFergus</h3></span>
 
 ![Banner](https://raw.githubusercontent.com/YoungFergus/YoungFergus/main/EF_Banner.png)
-
+Hey, I'm Erik. My programming experience started with hacking the Python and XML file for Civ IV on my parents computer and is beginning to culminate with contributions to some of my favorite data tools. I've got a Bachelors in Music Composition, an MBA - Finance, and 5 years of experience in the data engineering field. Currently I'm a data engineer at *Billtrust* - driving the adoption of the Modern Data Stack and development of some XGBoost ML Models.
 ## What I Do
- - 🧮 Data Engineer (5+ years of data experience)
- - 🧘 Meditator (Three 10-day silent retreats)
- - 🎹 Classical Musician (Composition Award, 4 professional instruments)
- - 🀄️ Language Learner (Spanish, Mandarin)
-
+ - 🧮 **Data Engineer** (5+ years of data experience)
+ - 🧘 **Meditator** (Three 10-day silent retreats)
+ - 🎹 **Classical Musician** (Composition Award, 4 professional instruments)
+ - 🀄️ **Language Learner** (Spanish, Mandarin)
+ - ⛰️ **Mountain Climber**
 ---
 ## My Technologies
-***Languages:*** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*Languages:* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F5ed1d)
 <br>
-***Tooling:***
+*Tooling:*
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
