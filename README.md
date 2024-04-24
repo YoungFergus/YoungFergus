@@ -1,4 +1,6 @@
-### Hi there 👋
+### Erik Ferguson 👋
+
+[![linkedin](https://img.shields.io/badge/<Badge Text>-<#0A66C2>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **YoungFergus/YoungFergus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
