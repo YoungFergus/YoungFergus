@@ -1,4 +1,4 @@
-### Erik Ferguson 👋
+<center># Erik Ferguson aka YoungFergus # </center>
 
 ![Banner](https://raw.githubusercontent.com/YoungFergus/YoungFergus/main/EF_Banner.png)
 
